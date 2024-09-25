@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  flex-direction: column
+  flex-direction: column;
   box-sizing: border-box;
   margin: 40px 0 20px 0;
   display: flex;
